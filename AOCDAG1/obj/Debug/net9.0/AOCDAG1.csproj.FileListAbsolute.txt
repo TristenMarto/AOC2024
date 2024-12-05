@@ -1,0 +1,14 @@
+D:\Users\1004121\AOC\AOCDAG1\bin\Debug\net9.0\AOCDAG1.exe
+D:\Users\1004121\AOC\AOCDAG1\bin\Debug\net9.0\AOCDAG1.deps.json
+D:\Users\1004121\AOC\AOCDAG1\bin\Debug\net9.0\AOCDAG1.runtimeconfig.json
+D:\Users\1004121\AOC\AOCDAG1\bin\Debug\net9.0\AOCDAG1.dll
+D:\Users\1004121\AOC\AOCDAG1\bin\Debug\net9.0\AOCDAG1.pdb
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\AOCDAG1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\AOCDAG1.AssemblyInfoInputs.cache
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\AOCDAG1.AssemblyInfo.cs
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\AOCDAG1.csproj.CoreCompileInputs.cache
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\AOCDAG1.dll
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\refint\AOCDAG1.dll
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\AOCDAG1.pdb
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\AOCDAG1.genruntimeconfig.cache
+D:\Users\1004121\AOC\AOCDAG1\obj\Debug\net9.0\ref\AOCDAG1.dll
